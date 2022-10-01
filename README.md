@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ermiyoo
+- 👋 Hi, I’m @Ermiyoo (technophile)
 - 👀 I’m interested in Everything
 - 🌱 I’m currently learning Backend Development with Node.js and MongoDB
 - 📫 How to reach me 
