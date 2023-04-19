@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ermiyoo (technophile)
 - 👀 I’m interested in Everything
-- 🌱 I’m currently learning Backend Development with Node.js | Express.js and MongoDB
+- 🌱 I’m currently learning Backend Development with Node.js | Express.js and MongoDB | Mobile app with Flutter
 - 📫 How to reach me 
 -       Email: Ermiyoo@protonmail.com
 
