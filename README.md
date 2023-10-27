@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ermiyoo (technophile)
 - 👀 I’m interested in Everything
-- 🌱 Backend Developer with Node.js | Express.js and MongoDB | Mobile app with Flutter
+- 🌱 Backend Developer with Node.js | Express.js and MongoDB | Mobile app with Flutter | Frontend With React
 - 📫 How to reach me 
 -       Email: Ermiyoo@protonmail.com
 
